@@ -34,7 +34,7 @@ Description: ROC graphs, sensitivity/specificity curves, lift charts,
 Encoding: UTF-8
 License: GPL (>= 2)
 NeedsCompilation: no
-Depends: R (>= 3.6)
+Depends: R (>= 3.5)
 Imports: methods, graphics, grDevices, gplots, stats
 Suggests: testthat, knitr, rmarkdown
 URL: http://ipa-tys.github.io/ROCR/
